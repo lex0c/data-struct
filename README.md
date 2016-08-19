@@ -1,6 +1,5 @@
 Project Estrutuda de Dados
 ---------------------------
-ED COMPLEMENTO
 
 Criar um sistema que permita que uma lista encadeada faça pesquisa sequencial, pesquisa
 Binaria.
@@ -9,25 +8,25 @@ para uma pesquisa binaria, o vetor tem que estar ordenado. Acrescente isso ao pr
 criado nos ED's anteriores, pois ao final seu sistema, será completo com tudo o que foi visto
 em aula.
 
-###O sistema deve ser capaz de:
+###O sistema é capaz de:
 
 * Inserir elemento
 
 * Imprimir vetor original
 
-* Imprimir o vetor ordenado (crie um submenu que permita o usuário escolher que tipo de ordenação que o usuário prefere).
+* Imprimir o vetor ordenado (Permite que o usuário escolha o tipo de ordenação).
 
-* Qual foi o primeiro elemento inserido
+* Ver qual foi o primeiro elemento inserido
 
-* Qual foi o ultimo elemento inserido
+* Ver qual foi o ultimo elemento inserido
 
-* No menu pesquisa faça um sub menu contendo as opções:
+* No menu pesquisa contém um sub menu contendo as opções:
 
       * Pesquisa Binaria
  
       * Pesquisa Sequencial
       
-      Em ambos os casos o retorno deve ser a posição que o elemento se encontra.
+      Em ambos os casos o retorno é a posição que o elemento se encontra.
       
 ###EXEMPLO:
  
@@ -61,18 +60,10 @@ em aula.
     
         * Sequencial
         
-        * Binaria (Se Binaria, volte ao passo 4)
+        * Binaria
       
   6 - Primeiro elemento Inserido
  
   7 - Ultimo elemento Inserido
  
   8 - Sair
-
-
-LEGENDA
-    
-    * Menu Principal
-    
-    * SubMenu
-  
